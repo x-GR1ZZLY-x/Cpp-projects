@@ -75,5 +75,5 @@ Connection* con = driver->connect("tcp://localhost:3306", "YOUR_LOGIN_HERE", "YO
 Connection* con = driver->connect("tcp://localhost:3306", "root", "ваш_пароль");
 ```
 ### 4. Сборка и запуск
-Соберите проект: Build → Build Solution (F7)
+Соберите проект: Build → Build Solution (F7)  
 Запустите: Debug → Start Without Debugging (Ctrl+F5)
