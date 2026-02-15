@@ -29,7 +29,7 @@ eeprom-spi-driver/
 ├── SpiDevice.h
 ├── SpiDriver.h
 ├── Eeprom.cpp # Реализация драйвера EEPROM
-├── NorAnswer # отличия Eeprom от Nor Flash
+├── NorAnswer.txt # отличия Eeprom от Nor Flash
 └── README.md
 ```
 
